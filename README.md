@@ -2,11 +2,11 @@
 
 ## Presentation
 
-[Slides (PDF)](GWAS_Income_2019_NatComm.pdf)
+[Slides (PDF)](PDFs/gossmann_WIKO_intro_2021_169.pdf)
 
 ## GWAS
 
-[GWAS study by Hill et al., 2019, Nature Communications (PDF)](PDFs/gossmann_WIKO_intro_2021_169.pdf)
+[GWAS study by Hill et al., 2019, Nature Communications (PDF)](PDFs/GWAS_Income_2019_NatComm.pdf)
 
 [FAQ by Hill et al. provided as Supplementary, pages 9-17](https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-019-13585-5/MediaObjects/41467_2019_13585_MOESM2_ESM.pdf)
 
