@@ -37,7 +37,7 @@ https://cloud.denbi.de/
 
 https://github.com/inaKarabay/SwarmGenomics
 
-### Reference database
+### Reference databases
 
 - https://ftp.ncbi.nlm.nih.gov/genomes/refseq/vertebrate_mammalian/
 - https://ftp.ncbi.nlm.nih.gov/genomes/refseq/vertebrate_other/
