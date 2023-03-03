@@ -2,7 +2,7 @@
 
 ## Presentation
 
-[Slides (PDF)](PDFs/gossmann_Singapore_talk_2023_169.pdf)
+[Slides (PDF)](PDFs/talk.pdf)
 
 ## GWAS
 
