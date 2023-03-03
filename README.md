@@ -22,7 +22,16 @@
 
 [TechTimes](https://www.techtimes.com/articles/243749/20190527/alpine-marmot-lost-its-genetic-diversity-due-to-climate-change.htm)
 
-## Swarm Genomics Github
+## Swarm Genomics 
+
+Swarm Genome Data Mining: Determining genetic diversity captured in vertebrate reference genomesRecent advances in sequencing technology have led to bloom of genomic resources, best illustrated by the numberof large-scale vertebrate genome projects (birds 10K, bat 1K). In the near future, reference genomes of almost anyspecies of interest might become available. But what can we learn from a single individuals’ genome about the entirespecies? The aim of the project it to explore what are the drivers of genetic diversity in deposited reference genomes.The project will be entirely computational and include aspects of population genetics as well as molecular evolution.
+
+
+### DENBI
+
+https://cloud.denbi.de/
+
+### Github
 
 https://github.com/inaKarabay/SwarmGenomics
 
