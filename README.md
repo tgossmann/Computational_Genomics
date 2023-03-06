@@ -22,9 +22,14 @@
 
 [TechTimes](https://www.techtimes.com/articles/243749/20190527/alpine-marmot-lost-its-genetic-diversity-due-to-climate-change.htm)
 
-## Practical: PhenoWeb
+## Practical: PheWeb
 
 https://pheweb.jp/
+
+This website releases genome-wide association study (GWAS) summary statistics of the BioBank Japan Project (BBJ). We provide GWAS results in the Japanese population (mainly from BBJ) using the PheWeb platform, with public access to the full summary statistics.
+
+BBJ is a prospective genome biobank that collaboratively collected DNA and serum samples from 12 medical institutions in Japan, managed by the Institute of Medical Science, the University of Tokyo. BBJ has recruited approximately 260,000 participants, mainly of Japanese ancestry. All study participants had been diagnosed with one or more of 47 target diseases. RIKEN Center for Integrative Medical Sciences contributed to genotyping of the BBJ samples.
+
 
 ### Examples
 
