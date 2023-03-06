@@ -40,6 +40,8 @@ https://messerlab.org/slim/
 
 http://benhaller.com/workshops/workshops.html
 
+[Workshop Slides](http://benhaller.com/workshops/SLiM_Workshop_Online.zip) and [Solutions](http://benhaller.com/workshops/SLiM_Workshop_SOLUTIONS.zip)
+
 
 ## Practical Swarm Genomics 
 
