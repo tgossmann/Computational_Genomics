@@ -41,6 +41,8 @@ BBJ is a prospective genome biobank that collaboratively collected DNA and serum
 
 https://messerlab.org/slim/
 
+SLiM is an evolutionary simulation framework that combines a powerful engine for population genetic simulations with the capability of modeling arbitrarily complex evolutionary scenarios.
+
 ### Slim workshops
 
 http://benhaller.com/workshops/workshops.html
