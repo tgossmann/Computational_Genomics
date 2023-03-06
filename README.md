@@ -22,6 +22,16 @@
 
 [TechTimes](https://www.techtimes.com/articles/243749/20190527/alpine-marmot-lost-its-genetic-diversity-due-to-climate-change.htm)
 
+## PhenoWeb
+
+https://pheweb.jp/
+
+### Examples
+
+Blood pressure: https://pheweb.jp/pheno/SBP
+A variant: https://pheweb.jp/variant/12-112241766-G-A
+Population distribution: https://gnomad.broadinstitute.org/variant/12-112241766-G-A
+
 ## Swarm Genomics 
 
 ### Swarm Genome Data Mining: Determining genetic diversity captured in vertebrate reference genomes
