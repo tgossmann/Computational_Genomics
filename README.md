@@ -32,6 +32,15 @@ https://pheweb.jp/
 - A variant: https://pheweb.jp/variant/12-112241766-G-A
 - Population distribution: https://gnomad.broadinstitute.org/variant/12-112241766-G-A
 
+## SLiM
+
+https://messerlab.org/slim/
+
+### Slim workshops
+
+http://benhaller.com/workshops/workshops.html
+
+
 ## Swarm Genomics 
 
 ### Swarm Genome Data Mining: Determining genetic diversity captured in vertebrate reference genomes
