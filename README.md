@@ -28,9 +28,9 @@ https://pheweb.jp/
 
 ### Examples
 
-Blood pressure: https://pheweb.jp/pheno/SBP
-A variant: https://pheweb.jp/variant/12-112241766-G-A
-Population distribution: https://gnomad.broadinstitute.org/variant/12-112241766-G-A
+- Blood pressure: https://pheweb.jp/pheno/SBP
+- A variant: https://pheweb.jp/variant/12-112241766-G-A
+- Population distribution: https://gnomad.broadinstitute.org/variant/12-112241766-G-A
 
 ## Swarm Genomics 
 
