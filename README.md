@@ -22,7 +22,7 @@
 
 [TechTimes](https://www.techtimes.com/articles/243749/20190527/alpine-marmot-lost-its-genetic-diversity-due-to-climate-change.htm)
 
-## PhenoWeb
+## Practical: PhenoWeb
 
 https://pheweb.jp/
 
@@ -32,7 +32,7 @@ https://pheweb.jp/
 - A variant: https://pheweb.jp/variant/12-112241766-G-A
 - Population distribution: https://gnomad.broadinstitute.org/variant/12-112241766-G-A
 
-## SLiM
+## Practical SLiM
 
 https://messerlab.org/slim/
 
@@ -41,7 +41,7 @@ https://messerlab.org/slim/
 http://benhaller.com/workshops/workshops.html
 
 
-## Swarm Genomics 
+## Practical Swarm Genomics 
 
 ### Swarm Genome Data Mining: Determining genetic diversity captured in vertebrate reference genomes
 
