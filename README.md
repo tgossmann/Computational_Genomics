@@ -37,19 +37,6 @@ BBJ is a prospective genome biobank that collaboratively collected DNA and serum
 - A variant: https://pheweb.jp/variant/12-112241766-G-A
 - Population distribution: https://gnomad.broadinstitute.org/variant/12-112241766-G-A
 
-## Practical SLiM
-
-https://messerlab.org/slim/
-
-SLiM is an evolutionary simulation framework that combines a powerful engine for population genetic simulations with the capability of modeling arbitrarily complex evolutionary scenarios.
-
-### Slim workshops
-
-http://benhaller.com/workshops/workshops.html
-
-[Workshop Slides](http://benhaller.com/workshops/SLiM_Workshop_Online.zip) and [Solutions](http://benhaller.com/workshops/SLiM_Workshop_SOLUTIONS.zip)
-
-
 ## Practical Swarm Genomics 
 
 ### Swarm Genome Data Mining: Determining genetic diversity captured in vertebrate reference genomes
@@ -69,6 +56,19 @@ https://github.com/inaKarabay/SwarmGenomics
 
 - https://ftp.ncbi.nlm.nih.gov/genomes/refseq/vertebrate_mammalian/
 - https://ftp.ncbi.nlm.nih.gov/genomes/refseq/vertebrate_other/
+
+
+## Practical SLiM
+
+https://messerlab.org/slim/
+
+SLiM is an evolutionary simulation framework that combines a powerful engine for population genetic simulations with the capability of modeling arbitrarily complex evolutionary scenarios.
+
+### Slim workshops
+
+http://benhaller.com/workshops/workshops.html
+
+[Workshop Slides](http://benhaller.com/workshops/SLiM_Workshop_Online.zip) and [Solutions](http://benhaller.com/workshops/SLiM_Workshop_SOLUTIONS.zip)
 
 
 
