@@ -50,7 +50,7 @@ https://cloud.denbi.de/
 
 ### Github
 
-https://github.com/inaKarabay/SwarmGenomics
+https://github.com/AureKylmanen/Swarmgenomics
 
 ### Reference databases
 
