@@ -1,8 +1,8 @@
-# CDM5104 Computational Genomics, 7th of March 2023
+# CDM5104 Computational Genomics Lecture - AY24/25, 5th of March 2025
 
 ## Presentation
 
-[Slides (PDF)](PDFs/talk.pdf)
+[Slides (PDF)](PDFs/talk25.pdf)
 
 ## GWAS
 
@@ -56,19 +56,6 @@ https://github.com/inaKarabay/SwarmGenomics
 
 - https://ftp.ncbi.nlm.nih.gov/genomes/refseq/vertebrate_mammalian/
 - https://ftp.ncbi.nlm.nih.gov/genomes/refseq/vertebrate_other/
-
-
-## Practical SLiM
-
-https://messerlab.org/slim/
-
-SLiM is an evolutionary simulation framework that combines a powerful engine for population genetic simulations with the capability of modeling arbitrarily complex evolutionary scenarios.
-
-### Slim workshops
-
-http://benhaller.com/workshops/workshops.html
-
-[Workshop Slides](http://benhaller.com/workshops/SLiM_Workshop_Online.zip) and [Solutions](http://benhaller.com/workshops/SLiM_Workshop_SOLUTIONS.zip)
 
 
 
